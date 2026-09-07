@@ -1,0 +1,16 @@
+body {
+    --e-global-color-primary: #010101;
+    --e-global-color-secondary: #FFFFFF;
+    --e-global-color-text: #676565;
+    --e-global-color-accent: #0DCAF0;
+    --e-global-color-accentsecondary: #B0061F;
+    --e-global-color-white: #FFFFFF;
+    --e-global-color-black: #000000;
+    --e-global-color-divider: #0101011A;
+    --e-global-color-darkdivider: #FFFFFF1A;
+    --e-global-color-background: #F5F3EC;
+    --e-global-typography-primary-font-family: "Phudu", sans-serif;
+    --e-global-typography-secondary-font-family: "Phudu", sans-serif;
+    --e-global-typography-text-font-family: "Instrument Sans", sans-serif;
+    --e-global-typography-accent-font-family: "Phudu", sans-serif;
+}

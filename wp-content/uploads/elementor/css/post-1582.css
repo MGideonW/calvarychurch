@@ -1,0 +1,248 @@
+.elementor-1582 .elementor-element.elementor-element-ce09895 {
+    --display: flex;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --gap: 30px 30px;
+    --row-gap: 30px;
+    --column-gap: 30px;
+    --border-radius: 20px 20px 20px 20px;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 50px;
+    --padding-right: 50px;
+    overflow: visible;
+}
+
+.elementor-1582 .elementor-element.elementor-element-ce09895:not(.elementor-motion-effects-element-type-background),
+.elementor-1582 .elementor-element.elementor-element-ce09895>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-background);
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-size: var( --e-global-typography-text-font-size);
+    font-weight: var( --e-global-typography-text-font-weight);
+    line-height: var( --e-global-typography-text-line-height);
+}
+
+.elementor-1582 .elementor-element.elementor-element-a0d2415 {
+    width: var( --container-widget-width, 160px);
+    max-width: 160px;
+    --container-widget-width: 160px;
+    --container-widget-flex-grow: 0;
+    border-radius: 50% 50% 50% 50%;
+    text-align: center;
+}
+
+.elementor-1582 .elementor-element.elementor-element-a0d2415 img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {
+    border-color: var( --e-global-color-text);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-icon i {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-widget-icon-list .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-size: var( --e-global-typography-text-font-size);
+    font-weight: var( --e-global-typography-text-font-weight);
+    line-height: var( --e-global-typography-text-line-height);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 {
+    margin: 20px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;
+    --e-icon-list-icon-size: 18px;
+    --e-icon-list-icon-align: left;
+    --e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25) 0 0;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 1px;
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-block-end: calc(15px/2);
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-block-start: calc(15px/2);
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-inline: calc(15px/2);
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-items.elementor-inline-items {
+    margin-inline: calc(-15px/2);
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    inset-inline-end: calc(-15px/2);
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-icon i {
+    color: var( --e-global-color-accent);
+    transition: color 0.3s;
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-accent);
+    transition: fill 0.3s;
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-item>a {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1em;
+}
+
+.elementor-1582 .elementor-element.elementor-element-6ddb443 .elementor-icon-list-text {
+    color: var( --e-global-color-text);
+    transition: color 0.3s;
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103.ekit-equal-height-enable,
+.elementor-1582 .elementor-element.elementor-element-aa82103.ekit-equal-height-enable>div,
+.elementor-1582 .elementor-element.elementor-element-aa82103.ekit-equal-height-enable .ekit-wid-con,
+.elementor-1582 .elementor-element.elementor-element-aa82103.ekit-equal-height-enable .ekit-wid-con .elementskit-infobox {
+    height: 100%;
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox {
+    background-color: #FFFFFF00;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-btn {
+    background-color: #FFFFFF00;
+    padding: 0px 0px 0px 0px;
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    color: var( --e-global-color-primary);
+    fill: var( --e-global-color-primary);
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox .elementskit-info-box-title {
+    color: var( --e-global-color-primary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+    line-height: var( --e-global-typography-secondary-line-height);
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox .box-body>p {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-size: var( --e-global-typography-text-font-size);
+    font-weight: var( --e-global-typography-text-font-weight);
+    line-height: var( --e-global-typography-text-line-height);
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox p {
+    margin: 15px 0px 0px 0px;
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-btn i {
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-btn svg {
+    max-width: 12px;
+    margin-left: 10px;
+}
+
+@media(max-width:1024px) {
+    .elementor-1582 .elementor-element.elementor-element-ce09895 {
+        --gap: 20px 20px;
+        --row-gap: 20px;
+        --column-gap: 20px;
+        --padding-top: 30px;
+        --padding-bottom: 30px;
+        --padding-left: 30px;
+        --padding-right: 30px;
+    }
+    .elementor-widget-image .widget-image-caption {
+        font-size: var( --e-global-typography-text-font-size);
+        line-height: var( --e-global-typography-text-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-a0d2415 {
+        --container-widget-width: 140px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 140px);
+        max-width: 140px;
+    }
+    .elementor-widget-icon-list .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-widget-icon-list .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-text-font-size);
+        line-height: var( --e-global-typography-text-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-6ddb443 {
+        margin: 10px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox .elementskit-info-box-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+        line-height: var( --e-global-typography-secondary-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox .box-body>p {
+        font-size: var( --e-global-typography-text-font-size);
+        line-height: var( --e-global-typography-text-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox p {
+        margin: 10px 0px 0px 0px;
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1582 .elementor-element.elementor-element-ce09895 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+    .elementor-widget-image .widget-image-caption {
+        font-size: var( --e-global-typography-text-font-size);
+        line-height: var( --e-global-typography-text-line-height);
+    }
+    .elementor-widget-icon-list .elementor-icon-list-item>.elementor-icon-list-text,
+    .elementor-widget-icon-list .elementor-icon-list-item>a {
+        font-size: var( --e-global-typography-text-font-size);
+        line-height: var( --e-global-typography-text-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox .elementskit-info-box-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+        line-height: var( --e-global-typography-secondary-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox .box-body>p {
+        font-size: var( --e-global-typography-text-font-size);
+        line-height: var( --e-global-typography-text-line-height);
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-infobox p {
+        margin: 10px 0px 0px 0px;
+    }
+    .elementor-1582 .elementor-element.elementor-element-aa82103 .elementskit-btn {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+}
